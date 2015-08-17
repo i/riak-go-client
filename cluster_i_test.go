@@ -8,7 +8,7 @@ import (
 	"sync"
 	"testing"
 	"time"
-	"runtime"
+	// "runtime"
 )
 
 func TestExecuteCommandOnCluster(t *testing.T) {
